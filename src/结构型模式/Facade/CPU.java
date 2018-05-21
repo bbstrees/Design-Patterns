@@ -5,7 +5,7 @@
  * @author xiejun1
  *
  */
-package �ṹ��ģʽ.Facade;
+package 结构型模式.Facade;
 
 public class CPU {  
     

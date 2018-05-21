@@ -13,7 +13,7 @@
 */
 package 行为型模式.Observer;
 
-public class ObserverTest {  
+public class Test {  
 	 
 	   public static void main(String[] args) {  
 		   

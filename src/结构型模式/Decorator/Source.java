@@ -5,7 +5,7 @@
  * @author xiejun1
  *
  */
-package �ṹ��ģʽ.Decorator;
+package 结构型模式.Decorator;
 
 public class Source implements Sourceable {  
 	  

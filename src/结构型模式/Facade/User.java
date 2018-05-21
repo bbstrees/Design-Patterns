@@ -1,10 +1,10 @@
 /**
- * Èç¹ûÎÒÃÇÃ»ÓÐComputerÀà£¬ÄÇÃ´£¬CPU¡¢Memory¡¢DiskËûÃÇÖ®¼ä½«»áÏà»¥³ÖÓÐÊµÀý£¬²úÉú¹ØÏµ£¬ÕâÑù»áÔì³ÉÑÏÖØµÄÒÀÀµ£¬
- * ÐÞ¸ÄÒ»¸öÀà£¬¿ÉÄÜ»á´øÀ´ÆäËûÀàµÄÐÞ¸Ä£¬Õâ²»ÊÇÎÒÃÇÏëÒª¿´µ½µÄ£¬ÓÐÁËComputerÀà£¬ËûÃÇÖ®¼äµÄ¹ØÏµ±»·ÅÔÚÁËComputerÀàÀï£¬
- * ÕâÑù¾ÍÆðµ½ÁË½âñîµÄ×÷ÓÃ£¬Õâ£¬¾ÍÊÇÍâ¹ÛÄ£Ê½£¡
+ * ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ã»ï¿½ï¿½Computerï¿½à£¬ï¿½ï¿½Ã´ï¿½ï¿½CPUï¿½ï¿½Memoryï¿½ï¿½Diskï¿½ï¿½ï¿½ï¿½Ö®ï¿½ä½«ï¿½ï¿½ï¿½à»¥ï¿½ï¿½ï¿½ï¿½Êµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ïµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Øµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+ * ï¿½Þ¸ï¿½Ò»ï¿½ï¿½ï¿½à£¬ï¿½ï¿½ï¿½Ü»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¸Ä£ï¿½ï¿½â²»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Òªï¿½ï¿½ï¿½ï¿½ï¿½Ä£ï¿½ï¿½ï¿½ï¿½ï¿½Computerï¿½à£¬ï¿½ï¿½ï¿½ï¿½Ö®ï¿½ï¿½Ä¹ï¿½Ïµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Computerï¿½ï¿½ï¿½ï£¬
+ * ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ë½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ã£ï¿½ï¿½â£¬ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä£Ê½ï¿½ï¿½
  */
 
-package ½á¹¹ÐÍÄ£Ê½.Facade;
+package ç»“æž„åž‹æ¨¡å¼.Facade;
 
 public class User {  
 	  

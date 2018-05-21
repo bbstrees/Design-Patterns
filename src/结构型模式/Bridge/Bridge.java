@@ -1,4 +1,4 @@
-package �ṹ��ģʽ.Bridge;
+package 结构型模式.Bridge;
 
 public abstract class Bridge {  
     private Sourceable source;  

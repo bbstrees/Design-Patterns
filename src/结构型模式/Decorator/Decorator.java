@@ -1,4 +1,4 @@
-package �ṹ��ģʽ.Decorator;
+package 结构型模式.Decorator;
 
 public class Decorator implements Sourceable {  
 	  

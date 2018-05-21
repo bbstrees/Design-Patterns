@@ -5,7 +5,7 @@
  * @author xiejun1
  *
  */
-package �ṹ��ģʽ.Proxy;
+package 结构型模式.Proxy;
 
 public class Source implements Sourceable {  
 	  

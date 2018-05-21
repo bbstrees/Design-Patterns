@@ -2,7 +2,7 @@
  * @author xiejun1
  *
  */
-package �ṹ��ģʽ.Adapter;
+package 结构型模式.Adapter;
 
 public class Source {  
 	  

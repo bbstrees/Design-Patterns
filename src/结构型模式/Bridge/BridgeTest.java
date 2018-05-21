@@ -1,4 +1,4 @@
-package ½á¹¹ĞÍÄ£Ê½.Bridge;
+package ç»“æ„å‹æ¨¡å¼.Bridge;
 
 public class BridgeTest {  
     
@@ -6,12 +6,12 @@ public class BridgeTest {
           
         Bridge bridge = new MyBridge();  
           
-        /*µ÷ÓÃµÚÒ»¸ö¶ÔÏó*/  
+        /*ï¿½ï¿½ï¿½Ãµï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½*/  
         Sourceable source1 = new SourceSub1();  
         bridge.setSource(source1);  
         bridge.method();  
           
-        /*µ÷ÓÃµÚ¶ş¸ö¶ÔÏó*/  
+        /*ï¿½ï¿½ï¿½ÃµÚ¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½*/  
         Sourceable source2 = new SourceSub2();  
         bridge.setSource(source2);  
         bridge.method();  
