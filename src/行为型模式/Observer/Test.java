@@ -2,7 +2,7 @@
 * @Title: 观察者模式测试类 
 * @Package 行为型模式.Observer  
 * @Description: 观察者模式测试类
-* @author xiejun1@douyu.tv     
+* @author xiejun1    
 * @date 2018年5月16日 上午11:33:15  
 * @version V1.0    
 */

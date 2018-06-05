@@ -2,7 +2,7 @@
 * @Title: Test.java  
 * @Package 行为型模式.Interpreter  
 * @Description: 解释器模式 -- 解释器模式用来做各种各样的解释器，如正则表达式等的解释器等等！  用的较少吧？
-* @author xiejun1@douyu.tv     
+* @author xiejun1    
 * @date 2018年5月21日 上午11:40:41  
 * @version V1.0    
 */  

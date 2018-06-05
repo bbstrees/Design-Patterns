@@ -2,7 +2,7 @@
 * @Title: package-info.java  
 * @Package 系统资源监控  
 * @Description: TODO(用一句话描述该文件做什么)  
-* @author xiejun1@douyu.tv     
+* @author xiejun1    
 * @date 2018年5月28日 上午11:11:08  
 * @version V1.0    
 */
